@@ -1,0 +1,105 @@
+{
+    "animals": [
+      {
+        "id": 1,
+        "name": "Simba",
+        "animalType": "Pişik",
+        "breed": "Persiya",
+        "age": 2,
+        "weight": "4 kg",
+        "owner": "John Doe",
+        "imageURL": "https://img5.lalafo.com/i/posters/api/cf/e0/fc/scottish-fold-whiskas-rengi-3-ayliq-id-40331484-808550931.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Afcarka",
+        "animalType": "İt",
+        "breed": "Labrador",
+        "age": 3,
+        "weight": "40 kg",
+        "owner": "Emily Smith",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmG2u4omTp5L22RSmyX8FUUo_o51Izgbjg3g&s"
+      },
+      {
+        "id": 3,
+        "name": "Gariban",
+        "animalType": "İt",
+        "breed": "Alman Çoban",
+        "age": 4,
+        "weight": "30 kg",
+        "owner": "Michael Brown",
+        "imageURL": "https://pbs.twimg.com/media/EmMgcZ8XIAAJEVB.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Luna",
+        "animalType": "Pişik",
+        "breed": "Birma",
+        "age": 1,
+        "weight": "3.5 kg",
+        "owner": "Sophia Wilson",
+        "imageURL": "https://image.hurimg.com/i/hurriyet/75/866x494/56a5f2b967b0a914b4b0f2a9.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Charlie",
+        "animalType": "İt",
+        "breed": "Bulldog",
+        "age": 5,
+        "weight": "20 kg",
+        "owner": "Oliver Davis",
+        "imageURL": "https://example.com/images/charlie.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mimi",
+        "animalType": "Pişik",
+        "breed": "Scottish Fold",
+        "age": 2,
+        "weight": "4.2 kg",
+        "owner": "Isabella Martinez",
+        "imageURL": "https://example.com/images/mimi.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Rocky",
+        "animalType": "İt",
+        "breed": "Boxer",
+        "age": 6,
+        "weight": "28 kg",
+        "owner": "James Taylor",
+        "imageURL": "https://example.com/images/rocky.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Cleo",
+        "animalType": "Pişik",
+        "breed": "Siyam",
+        "age": 3,
+        "weight": "3.8 kg",
+        "owner": "Ella Moore",
+        "imageURL": "https://example.com/images/cleo.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Daisy",
+        "animalType": "İt",
+        "breed": "Beagle",
+        "age": 4,
+        "weight": "10 kg",
+        "owner": "William Anderson",
+        "imageURL": "https://example.com/images/daisy.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Shadow",
+        "animalType": "Pişik",
+        "breed": "Maine Coon",
+        "age": 5,
+        "weight": "6.5 kg",
+        "owner": "Mia Thomas",
+        "imageURL": "https://example.com/images/shadow.jpg"
+      }
+    ]
+  }
+  
